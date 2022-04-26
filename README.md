@@ -1,2 +1,3 @@
 # bds-football
-gnss learn
+This repository will contain learning contents related to Beidou and GPS
+gnss learning
